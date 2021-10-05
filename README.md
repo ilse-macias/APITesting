@@ -1,7 +1,7 @@
 # APITesting
 Learn about API testing, practicing and creating examples using demo endpoints.
 
-This is the link recomended:
+Those are some links recomended:
 1. Rest-Booking: https://restful-booker.herokuapp.com 
 2. httpbin: https://httpbin.org/ 
 3. Simple Books API: https://books-api.glitch.me/
